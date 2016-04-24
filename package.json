@@ -1,0 +1,19 @@
+{
+  "name": "portfolioexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mramos1126/portfolioexpress.git"
+  },
+  "author": "mauricio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mramos1126/portfolioexpress/issues"
+  },
+  "homepage": "https://github.com/mramos1126/portfolioexpress#readme"
+}
